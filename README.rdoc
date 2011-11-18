@@ -1,5 +1,7 @@
-== Aristo for jQuery UI
+== Aristo Dark for jQuery UI
 
-The "Aristo" theme for Cappuccino ported to a jQuery UI Theme, with permission by 280North and Pinvoke.
+This is a fork of the jQuery Aristo theme - https://github.com/taitems/Aristo-jQuery-UI-Theme
 
-More information available at http://taitems.tumblr.com
+	The "Aristo" theme for Cappuccino ported to a jQuery UI Theme, with permission by 280North and Pinvoke.
+
+	More information available at http://taitems.tumblr.com
